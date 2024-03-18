@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Computer Engineer graduate and a software developer
 
 * ✉️  You can contact me at [Mohamedxmagdi@gmail.com](mailto:Mohamedxmagdi@gmail.com)
+* Portfolio : https://megaax.github.io/portfolio/
 
 ### Skills
 
