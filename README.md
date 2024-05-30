@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Devops Engineer
 
-* ✉️  You can contact me at [Mohamedxmagdi@gmail.com](mailto:Mohamedxmagdi@gmail.com)
+* You can contact me at [Mohamedxmagdi@gmail.com](mailto:Mohamedxmagdi@gmail.com)
 * Portfolio : https://megaax.github.io/portfolio/
 
 ### Skills
